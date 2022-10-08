@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
+body {
+  background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm218batch9-aum-06_1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3b3f33a625c79449938bd4196767f3a9');
+}
+
+.draggable {
+  width: 90px;
+  height: 90px;
+  padding: 0.5em;
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+#dogeHouse {
+  width: 95%;
+  height: 300px;
+  border: 2px solid rgb(112, 78, 50);
+  padding: 10px;
+}
+
+h3,
+label,
+p {
+  background-color: rgb(255, 255, 255);
+}
+
+h3 {
+  color: rgb(207, 197, 197);
+  font-family: "Quicksand", sans-serif;
+}
+
+h5{
+  color:gray;
+  font-family: "Quicksand", sans-serif;
+}
+h6{
+  color: gray;
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(230, 213, 213, 0.541);
+  color: rgb(200, 64, 235);
+  font-family: "Quicksand", sans-serif;
+}
+.center{
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
